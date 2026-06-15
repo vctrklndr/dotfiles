@@ -1,0 +1,21 @@
+{
+  "workbench.colorTheme": "One Dark Bimbo",
+  "editor.fontFamily": "FiraCode Nerd Font Mono",
+  "editor.fontLigatures": true,
+  "security.workspace.trust.untrustedFiles": "open",
+  "[javascript]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
+  "[css]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
+  "[scss]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
+  "[json]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
+  "[html]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
+  "[javascriptreact]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
+  "files.associations": { "*.php": "php" },
+  "[python]": { "editor.formatOnType": true },
+  "[typescriptreact]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
+  "prettier.cssEnable": ["css", "less", "scss"],
+  "prettier.javascriptEnable": ["javascript", "javascriptreact"],
+  "[typescript]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
+  "python.defaultInterpreterPath": "/opt/homebrew/bin/python3",
+  "workbench.editorAssociations": { "*.svg": "default" },
+  "[vue]": { "editor.defaultFormatter": "esbenp.prettier-vscode" }
+}
